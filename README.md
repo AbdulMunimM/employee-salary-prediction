@@ -1,4 +1,12 @@
 # 💼 Employee Salary Prediction
+# Salary Prediction Model
+
+## Live Demo
+
+🔗 https://employee-salary-prediction-am.streamlit.app/
+
+Predict employee salaries using a machine learning model trained on historical salary data.
+
 
 ## Overview
 
